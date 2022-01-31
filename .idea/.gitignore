@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Mahandrisoa\OneDrive\Documents\learning\BigData\Python\Flask-Salary-Predictor-with-Random-Forest-Algorithm\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
